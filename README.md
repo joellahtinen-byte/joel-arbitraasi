@@ -2,6 +2,8 @@
 
 Automated arbitrage betting application targeting the Netherlands market.
 
+🔗 **Repository**: https://github.com/joellahtinen-byte/joel-arbitraasi
+
 ## Quick Start
 
 ```bash
